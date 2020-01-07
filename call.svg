@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.396205357">
+        <g id="main-header" transform="translate(-584.000000, -14.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Phone" transform="translate(584.000000, 14.000000)">
+                <g id="icon-phone">
+                    <path d="M11.53625,11.53625 C9.5575,13.51375 7.265,15.40625 6.35875,14.5 C5.0625,13.20375 4.2625,12.07375 1.4025,14.3725 C-1.45625,16.67 0.74,18.2025 1.99625,19.4575 C3.44625,20.9075 8.85125,19.535 14.19375,14.19375 C19.535,8.85125 20.90375,3.44625 19.4525,1.99625 C18.19625,0.73875 16.67125,-1.45625 14.37375,1.4025 C12.075,4.26125 13.20375,5.06125 14.5025,6.35875 C15.405,7.265 13.51375,9.5575 11.53625,11.53625 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
